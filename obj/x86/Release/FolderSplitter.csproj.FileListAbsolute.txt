@@ -1,0 +1,10 @@
+G:\Projects\FolderSplitter\FolderSplitter\bin\Release\FolderSplitter.exe.config
+G:\Projects\FolderSplitter\FolderSplitter\bin\Release\FolderSplitter.exe
+G:\Projects\FolderSplitter\FolderSplitter\bin\Release\FolderSplitter.pdb
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\FolderSplitter.Form1.resources
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\FolderSplitter.Properties.Resources.resources
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\FolderSplitter.exe
+G:\Projects\FolderSplitter\FolderSplitter\obj\x86\Release\FolderSplitter.pdb
